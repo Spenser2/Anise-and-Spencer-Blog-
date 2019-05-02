@@ -16,3 +16,17 @@ img {
   height: 300px;
   width: 50%;
 }
+
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color:inherit;
+  color: red;
+  font-weight: bold;
+}
+
+.wwxyz {
+  float: left;
+  height: 600px;
+  width: 1250px;
+}
